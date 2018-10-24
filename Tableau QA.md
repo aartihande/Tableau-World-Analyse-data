@@ -1,4 +1,4 @@
-# Tableau Desktop
+### Tableau 
 What is Tableau?
 
 Tableau is a powerful business intelligence and data visualization tool
